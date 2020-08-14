@@ -74,13 +74,15 @@ h2 a:hover{
         display: none;
     }
     .headerSmall{
-        padding: 10px;
+        padding: 0px;
         min-height: 24px;
-        max-height: 44px;
         border-radius: 4px 4px 4px 4px;
         background: linear-gradient(#2b5377, #132e49);
         color: white;
         display: block;
+    }
+    .headerSmall img{
+        margin: 10px;
     }
 }
     
