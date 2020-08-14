@@ -27,10 +27,16 @@ body{
 }
 
 .header{
-    background-color: #F54646;
     height: 233px;
     background: url("MassaTv_Banner_1200px.jpg") 50% 50% no-repeat;
     border-radius: 7px 7px 4px 4px;
+}
+
+.headerSmall{
+    height: 40px;
+    border-radius: 4px 4px 4px 4px;
+    background: linear-gradient(#285682, #0f283e);
+    color: white;
 }
 
 
