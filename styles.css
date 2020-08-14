@@ -67,14 +67,14 @@ h2 a:hover{
         display: none;
     }
 
-@media (max-width: 576px) {
+@media (max-width: 575px) {
     .header{
         display: none;
     }
     .headerSmall{
         height: 40px;
         border-radius: 4px 4px 4px 4px;
-        background: #183650;
+        background: linear-gradient(#2b5377, #132e49);
         color: white;
         display: block;
     }
