@@ -33,25 +33,6 @@ body{
     border-radius: 7px 7px 4px 4px;
 }
 
-.avatar{
-    position: relative;
-    left: 40px;
-    top: 160px;
-
-    border-radius: 50%;
-    border: 4px solid #ffffff;
-
-    background-color: #F54646;
-    width: 94px;
-    height: 94px;
-    background: url("MassaTv_Logo.png") 50% 50% no-repeat;
-    /* <img src="MassaTv_Banner_1200px.png" alt='YouTube канал "Масса"'> */
-    /* background: url("MassaTv_Banner_1200px.png") 50% 50%; */
-}
-
-a .avatar{
-    text-decoration: none;
-}
 
 .mt-10{
     margin-top: 10px;
@@ -65,3 +46,13 @@ a .avatar{
 .embed-responsive{
     max-width: 770px !important;
 }
+
+
+h2 a{
+    
+}
+
+h2 a:hover{
+    
+}
+
