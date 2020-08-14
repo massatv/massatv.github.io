@@ -84,5 +84,12 @@ h2 a:hover{
     .headerSmall img{
         margin: 10px;
     }
+
+    h1, h2{
+        font-size: 1.8rem;
+    }
+
+    
 }
+
     
