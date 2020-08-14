@@ -74,9 +74,9 @@ h2 a:hover{
         display: none;
     }
     .headerSmall{
-        padding: 4px;
+        padding: 10px;
         min-height: 24px;
-        max-height: 40px;
+        max-height: 44px;
         border-radius: 4px 4px 4px 4px;
         background: linear-gradient(#2b5377, #132e49);
         color: white;
