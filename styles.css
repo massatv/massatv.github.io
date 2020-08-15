@@ -92,12 +92,13 @@ hr {
     }
     .headerSmall{
         padding: 0px;
-        min-height: 24px;
-        border-radius: 4px 4px 4px 4px;
-        background: linear-gradient(#2b5377, #132e49);
+        min-height: 44px;
+        background: url("MassaTv_MiniLogo.png") 50% 50% no-repeat, linear-gradient(#2b5377, #132e49);
+        border-radius: 7px;
         color: white;
         display: block;
-    }
+
+}
     .headerSmall img{
         margin: 10px;
     }
