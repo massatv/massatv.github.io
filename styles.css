@@ -72,6 +72,11 @@ hr {
 }
 
 
+ul {
+    margin-top: 4px;
+    margin-bottom: 4px;
+}
+
 
 @media (min-width: 576px){
     .header{
