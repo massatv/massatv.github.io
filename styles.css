@@ -59,7 +59,11 @@ h1 a:hover, h2 a:hover{
     color: #1e5b91
 }
 
-.msg-h3{ font-size: 1.8rem; }
+.headerMsg{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.msg-h3{ font-size: 1.6rem; }
 .msg-h4{ font-size: 1.2rem; }
 .msg-h3 a, .msg-h4 a{
     color: #2b5377;
@@ -139,7 +143,6 @@ ul {
         margin-top: 10px;
         padding: 10px;
         font-size: 1.1rem;
-
 }
 
 
