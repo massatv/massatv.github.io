@@ -59,10 +59,6 @@ h1 a:hover, h2 a:hover{
     color: #1e5b91
 }
 
-.headerMsg{
-    margin-top: 20px;
-    margin-bottom: 20px;
-}
 .msg-h3{ font-size: 1.7rem; }
 .msg-h4{ font-size: 1.2rem; }
 .msg-h3 a, .msg-h4 a{
